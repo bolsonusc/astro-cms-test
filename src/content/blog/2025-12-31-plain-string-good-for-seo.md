@@ -6,5 +6,5 @@ title: plain string, good for SEO
 ogImage: plain string, good for SEO
 slug: kebab-case (e.g., my-new-blog-post-sample)
 featured: false
-draft: false
+draft: true
 ---
