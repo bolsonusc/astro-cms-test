@@ -10,7 +10,7 @@ draft: false
 tags:
   - pagecms
   - astro
-  - pagecms
+  - tutorial
 ---
 !\[Team at work\](./images/team-photo.png)
 
